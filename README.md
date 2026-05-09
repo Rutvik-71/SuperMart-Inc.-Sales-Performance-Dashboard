@@ -182,13 +182,15 @@ Total Orders     = DISTINCTCOUNT('superstore'[Order ID])
 ## 📸 Dashboard Screenshots
 
 ### Page 1: Executive Overview
-*(Add screenshot here)*
+<img width="1266" height="728" alt="Screenshot 2026-03-15 235203" src="https://github.com/user-attachments/assets/829c9cd1-933c-4b4e-8aa9-76ba27fefc36" />
+
 
 ### Page 2: Product Analysis
-*(Add screenshot here)*
+<img width="1224" height="684" alt="Screenshot 2026-03-15 235211" src="https://github.com/user-attachments/assets/4c307da2-ca1b-45f2-a2f1-2d8369209901" />
 
 ### Page 3: Customer Segment Analysis
-*(Add screenshot here)*
+<img width="1177" height="659" alt="Screenshot 2026-03-15 235220" src="https://github.com/user-attachments/assets/e69f8a3e-a1c5-43ee-aebc-cbe29fe82e04" />
+
 
 ---
 
