@@ -240,9 +240,9 @@ Open dashboard/supermart_dashboard.pbix in Power BI Desktop
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Your LinkedIn] |
-| 🐙 GitHub | [Your GitHub] |
-| 📧 Email | [Your Email] |
+| 💼 LinkedIn | https://www.linkedin.com/in/rutvik-patil71/ |
+| 🐙 GitHub | https://github.com/Rutvik-71/ |
+| 📧 Email | rutvikpatil3896@gmail.com /|
 
 ---
 
